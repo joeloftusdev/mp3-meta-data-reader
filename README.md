@@ -17,6 +17,5 @@ A C++ header-only class for reading basic metadata from MP3 files, currently sup
   - Expand the functionality to parse additional ID3v2 frames, such as:
     - **Album Art**: Parse APIC (Attached Picture) frames to extract album artwork.
     - **Genre**: Support parsing genre information in ID3 tags.
-    - **Comments**: Retrieve user comments stored in comment frames.
     - **Track Number**: Extract track numbers and other metadata like disc numbers if available.
 
